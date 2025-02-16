@@ -15,6 +15,6 @@ If you have been offline for more than 6 months, players may request to remove y
 
 ## Voting
 
-Each vote gives the following: 1 Vote Key, $100, 200 Claim Blocks, a Diamond, and 8 Cooked Beef.
+Each vote gives the following: 1 Vote Key, $100, 200 Claim Blocks, a Diamond, and 8 Cooked Beef with the chance to get rare votes for more of those!
 
 Each vote contributes to the Vote Party and upon reaching 20 votes, everyone online will get 2 Vote Keys, 250 Claim Blocks, and 1 Hour of /fly
